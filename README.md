@@ -1,4 +1,4 @@
-# Terraform Commands
+# Final project for the AWS course
 
 This repository contains a `main.tf` file that defines the resources to be created on AWS using Terraform. Below are the explanations of the Terraform commands used in this project:
 
