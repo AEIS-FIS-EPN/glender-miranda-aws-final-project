@@ -1,6 +1,6 @@
 provider "aws" {
-  shared_config_files = ["C:/Users/Glender/.aws/config"]
-  shared_credentials_files = ["C:/Users/Glender/.aws/credentials"]
+  shared_config_files = ["C:\\Users\\Glender\\.aws\\config"]
+  shared_credentials_files = ["C:\\Users\\Glender\\.aws\\credentials"]
 }
 
 resource "aws_vpc" "fis_vpc" {
