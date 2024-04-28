@@ -28,4 +28,3 @@ Please refer to the `main.tf` file in this repository for the specific resource 
 
 - [Terraform Documentation](https://developer.hashicorp.com/terraform/docs) - Official documentation for Terraform.
 - [Terraform GitHub Repository](https://github.com/hashicorp/terraform) - Source code and issue tracking for Terraform.
-```
